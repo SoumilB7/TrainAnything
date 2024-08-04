@@ -11,3 +11,4 @@ They become better by going to the local minimum of the loss curve graph
 
 You can perform just about anything with deep neural networks as it is fundamentall based on the neural network architecture of the brain.
 
+A greater indepth explanation is included in the neuron extraction pdf
