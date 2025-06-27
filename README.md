@@ -31,6 +31,7 @@ Welcome to **Train_Anything** – your launchpad to get you cracking with deep n
 
 ## 📚 Datasets
 The `datasets/` folder contains a variety of files for different tasks:
+- **Categorical:** `download Mnist from kaggle`
 - **Text:** `Shakespeare.txt`, `Java.txt`, `Book.txt`, `Ideas.txt`, `names.txt`
 - **Finance:** `Apple_Stock.xls`
 - **Other:** Add your own datasets to experiment!
